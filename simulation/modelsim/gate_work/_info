@@ -1,0 +1,97 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\lab7\simulation\modelsim
+Esorter_v2_255
+Z1 w1621002651
+Z2 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z3 DPx9 cycloneii 19 cycloneii_atom_pack 0 22 zUjlM<IUJVWSWg:L2<>ic3
+Z4 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 DPx9 cycloneii 20 cycloneii_components 0 22 h@gSJ;Al32oYg[7^PbnAR0
+Z8 dC:\altera\13.0sp1\lab7\simulation\modelsim
+Z9 8mySeventhProject.vho
+Z10 FmySeventhProject.vho
+l0
+L34
+V]3cjVK1kV3^S]JGOfz5H>2
+Z11 OV;C;10.1d;51
+31
+Z12 !s108 1621003962.672000
+Z13 !s90 -reportprogress|300|-93|-work|work|mySeventhProject.vho|
+Z14 !s107 mySeventhProject.vho|
+Z15 o-93 -work work -O0
+Z16 tExplicit 1
+!s100 e`mZbmm[=gOff>6^a26m^0
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 13 sorter_v2_255 0 22 ]3cjVK1kV3^S]JGOfz5H>2
+l204
+L86
+V:^E]39giGNf6AI@^`0BIf1
+R11
+31
+R12
+R13
+R14
+R15
+R16
+!s100 ccdD_LzfF6h^:h5FWVZKW2
+!i10b 1
+Esorter_v2_255_tb
+Z17 w1621003836
+Z18 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z19 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z20 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z21 8C:/altera/13.0sp1/lab7/simulation/modelsim/sorter_v2_255_tb.vhd
+Z22 FC:/altera/13.0sp1/lab7/simulation/modelsim/sorter_v2_255_tb.vhd
+l0
+L9
+VEFYc]0DG8S@KSDSXePPi13
+!s100 1AGQEV@RQYhV^JU`]j:193
+R11
+31
+!i10b 1
+Z23 !s108 1621003962.810000
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.0sp1/lab7/simulation/modelsim/sorter_v2_255_tb.vhd|
+Z25 !s107 C:/altera/13.0sp1/lab7/simulation/modelsim/sorter_v2_255_tb.vhd|
+R15
+R16
+Asorter_v2_255_tb_arch
+R18
+R19
+R20
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 16 sorter_v2_255_tb 0 22 EFYc]0DG8S@KSDSXePPi13
+l32
+L12
+VNYjS1ZIRO<>Z1N7`T:LdS2
+!s100 =8IU[DfK^D7QEHIfTA@en2
+R11
+31
+!i10b 1
+R23
+R24
+R25
+R15
+R16
