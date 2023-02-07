@@ -1,0 +1,116 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\lab_5\simulation\modelsim
+Efull_adder
+Z1 w1618669391
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\altera\13.0sp1\lab_5\simulation\modelsim
+Z5 8C:/altera/13.0sp1/lab_5/full_adder.vhd
+Z6 FC:/altera/13.0sp1/lab_5/full_adder.vhd
+l0
+L4
+Vg0Eg858hmUVk30JADfjaN1
+Z7 OV;C;10.1d;51
+33
+Z8 !s108 1618674118.609000
+Z9 !s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab_5/full_adder.vhd|
+Z10 !s107 C:/altera/13.0sp1/lab_5/full_adder.vhd|
+Z11 o-2008 -work work -O0
+Z12 tExplicit 1
+!s100 VlGPK@?Q85LSZlnmaPSiR3
+!i10b 1
+Agate_level
+R2
+R3
+DEx4 work 10 full_adder 0 22 g0Eg858hmUVk30JADfjaN1
+l12
+L11
+VakzoJIT[C?f@ZKHHW`2A@2
+R7
+33
+R8
+R9
+R10
+R11
+R12
+!s100 mHgamAHZmQE]?56Z0lZSm2
+!i10b 1
+Efull_adder_8
+Z13 w1618670012
+R2
+R3
+R4
+Z14 8C:/altera/13.0sp1/lab_5/full_adder_8.vhd
+Z15 FC:/altera/13.0sp1/lab_5/full_adder_8.vhd
+l0
+L4
+V4_L1V`[QQQf2D]@>kRhIW3
+R7
+33
+Z16 !s108 1618674118.674000
+Z17 !s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab_5/full_adder_8.vhd|
+Z18 !s107 C:/altera/13.0sp1/lab_5/full_adder_8.vhd|
+R11
+R12
+!s100 L@zdXU]6zO5CHfLzZQQQn3
+!i10b 1
+Afa_arch
+R2
+R3
+DEx4 work 12 full_adder_8 0 22 4_L1V`[QQQf2D]@>kRhIW3
+l21
+L11
+V63ljAFdUTERYmh0U4^7X33
+R7
+33
+R16
+R17
+R18
+R11
+R12
+!s100 _HIJl3z@lYbXfPibE8@lH3
+!i10b 1
+Efull_adder_8_tb
+Z19 w1618671738
+Z20 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z22 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R2
+R3
+R4
+Z23 8C:/altera/13.0sp1/lab_5/simulation/modelsim/full_adder_8_tb.vhd
+Z24 FC:/altera/13.0sp1/lab_5/simulation/modelsim/full_adder_8_tb.vhd
+l0
+L7
+VRd^GJc1I3YkWck]@2i72_2
+!s100 n^OQcmKN3[iI]I?ZZ?DQB0
+R7
+33
+!i10b 1
+Z25 !s108 1618674118.735000
+Z26 !s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab_5/simulation/modelsim/full_adder_8_tb.vhd|
+Z27 !s107 C:/altera/13.0sp1/lab_5/simulation/modelsim/full_adder_8_tb.vhd|
+R11
+R12
+Afull_adder_8_tb_arch
+R20
+R21
+R22
+R2
+R3
+DEx4 work 15 full_adder_8_tb 0 22 Rd^GJc1I3YkWck]@2i72_2
+l24
+L10
+Voz;X8GM^Zf92S0kkj4DDa2
+!s100 0]6O@Pia9ohC;41XKEQmi1
+R7
+33
+!i10b 1
+R25
+R26
+R27
+R11
+R12

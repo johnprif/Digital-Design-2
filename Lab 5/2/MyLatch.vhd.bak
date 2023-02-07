@@ -1,0 +1,6 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity MyLatch is
+			port(	Rst,Set,LE,D: in std_logic;
+					Q,Qn: out std_logic);

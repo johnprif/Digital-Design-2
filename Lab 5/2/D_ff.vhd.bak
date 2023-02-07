@@ -1,0 +1,11 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+entity D_ff is
+		port(	CLK,D,CLR,SET:in std_logic;
+				Q,Qn:out std_logic);
+end D_ff;
+
+architecture RTL of D_ff is
+		signal DFF:std_logic;
+begin	
+		
