@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'NewLCD:inst1|LCD_Display:inst|CLK_400HZ'
+Slack : -5.491
+TNS   : -88.106
+
+Type  : Slow Model Setup 'CLK'
+Slack : -3.506
+TNS   : -31.605
+
+Type  : Slow Model Setup 'CLK50'
+Slack : -2.373
+TNS   : -43.878
+
+Type  : Slow Model Hold 'CLK50'
+Slack : -2.538
+TNS   : -2.538
+
+Type  : Slow Model Hold 'NewLCD:inst1|LCD_Display:inst|CLK_400HZ'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'CLK'
+Slack : 0.811
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'NewLCD:inst1|LCD_Display:inst|CLK_400HZ'
+Slack : -1.423
+TNS   : -53.230
+
+Type  : Slow Model Minimum Pulse Width 'CLK50'
+Slack : -1.380
+TNS   : -22.380
+
+Type  : Slow Model Minimum Pulse Width 'CLK'
+Slack : -1.380
+TNS   : -17.380
+
+Type  : Fast Model Setup 'NewLCD:inst1|LCD_Display:inst|CLK_400HZ'
+Slack : -2.517
+TNS   : -33.420
+
+Type  : Fast Model Setup 'CLK'
+Slack : -0.978
+TNS   : -5.858
+
+Type  : Fast Model Setup 'CLK50'
+Slack : -0.560
+TNS   : -9.101
+
+Type  : Fast Model Hold 'CLK50'
+Slack : -1.582
+TNS   : -1.582
+
+Type  : Fast Model Hold 'NewLCD:inst1|LCD_Display:inst|CLK_400HZ'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'CLK'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'NewLCD:inst1|LCD_Display:inst|CLK_400HZ'
+Slack : -1.423
+TNS   : -53.230
+
+Type  : Fast Model Minimum Pulse Width 'CLK50'
+Slack : -1.380
+TNS   : -22.380
+
+Type  : Fast Model Minimum Pulse Width 'CLK'
+Slack : -1.380
+TNS   : -17.380
+
+------------------------------------------------------------
