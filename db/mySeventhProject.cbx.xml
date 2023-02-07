@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="mySeventhProject">
-		<CBX_INST_ENTRY INSTANCE_NAME="|Sorter_V2_255|RAM_255:b2v_inst3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_k4c1.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Sorter_V2_255|busmux_0:b2v_inst4|busmux:b2v_inst4|lpm_mux:$00000" CBX_FILE_NAME="mux_smc.tdf"/>
-	</PROJECT>
-</LOG_ROOT>
